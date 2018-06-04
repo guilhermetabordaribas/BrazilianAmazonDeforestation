@@ -1,5 +1,4 @@
 # BrazilianAmazonDeforestation
-Acompanhamento do desmatamento e emissão de CO2 da Amazônia Legal Brasileira
 
 In order to, clearly and intuitively, disseminate and to demonstrate the impact and extent of deforestation in the Brazilian Amazon forest, a dynamic chart was created consisting of three plots: the annual forest deforestation in each Brazilian state, the deforestation rate at each year, the rate of carbon dioxide (CO2) emissions due to deforestation and the dispersion between the values of deforestation rates and CO2 emissions. The data plotted refer to the values obtained in the years 1988 to 2017, and they were obtained through the PRODES and INPE-EM projects of the National Institute of Space Research of Brazil (INPE).
 
